@@ -26,6 +26,7 @@ This project involves:
 🎯 This resource showcase expertise in:
 - SQL Development
 - Data Architect
+- ![Data Flow](image/data_flow.png)
 - Data Engineering  
 - ETL Pipeline Developer  
 - Data Modeling  
@@ -41,7 +42,6 @@ Develop a modern data warehouse using postgreSQL to consolidate sales data, enab
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-- ![Data Flow](image/data_flow.png)
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - ![Data Integration](image/data_intergration.png)
@@ -61,8 +61,6 @@ data-warehouse-project/
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
-│
-│
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository        
 └── requirements.txt                    # Dependencies and requirements for the project
