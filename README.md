@@ -29,7 +29,7 @@ This project involves:
 - Data Engineering  
 - ETL Pipeline Developer  
 - Data Modeling  
-
+![Data Modeling](image/data_model.png)
 ---
 
 ## 🚀 Project Requirements
@@ -41,8 +41,10 @@ Develop a modern data warehouse using postgreSQL to consolidate sales data, enab
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+- ![Data Flow](image/data_flow.png)
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
+- ![Data Integration](image/data_intergration.png)
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
