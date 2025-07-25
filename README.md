@@ -1,6 +1,6 @@
 # Data Warehouse SQL Project
  
-🚀 This project demonstrates a comprehensive data warehousing olution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+🚀 This project demonstrates a comprehensive data warehousing solution using **postgreSQL**, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
 ## 🏗️ Data Architecture
@@ -38,7 +38,7 @@ This project involves:
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
-Develop a modern data warehouse using postgreSQL to consolidate sales data, enabling analytical reporting and informed decision-making.
+Develop a modern data warehouse using **postgreSQL** to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
